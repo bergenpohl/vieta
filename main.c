@@ -13,7 +13,7 @@ int	main() {
 		last = sqrt(2 + last);
 	}
 	pi = 2 / res;
-	printf("pi g : %.30f\n", pi);
+	printf("pi: %.30f\n", pi);
 	return (0);
 }
 
